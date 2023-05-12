@@ -1,0 +1,2 @@
+this is a new file.
+of course it contains the package name: {{ cookiecutter.package_name }}
