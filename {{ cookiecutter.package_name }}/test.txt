@@ -2,4 +2,4 @@
 
 {{ cookiecutter.package_name }}
 
-This is a test file!
+This is a changed test file!
